@@ -1,5 +1,7 @@
 # updateAzureDNSrecords
 
+Create or Update Azure DNS records
+
 ```
 export AZURE_SUBSCRIPTION_ID="your-subscription-id"
 export AZURE_RESOURCE_GROUP="your-resource-group"
